@@ -200,6 +200,13 @@
   </url>
   
   <url>
+    <loc>https://wfpas.com/tags/CheatEngine/</loc>
+    <lastmod>2021-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wfpas.com/tags/PicGo/</loc>
     <lastmod>2021-10-17</lastmod>
     <changefreq>daily</changefreq>
@@ -229,13 +236,6 @@
   
   <url>
     <loc>https://wfpas.com/tags/%E5%AE%9D%E5%A1%94%E9%9D%A2%E6%9D%BF/</loc>
-    <lastmod>2021-10-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wfpas.com/tags/CheatEngine/</loc>
     <lastmod>2021-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -286,6 +286,13 @@
   </url>
   
   <url>
+    <loc>https://wfpas.com/categories/%E6%99%9A%E9%A3%8EMemoryTools/</loc>
+    <lastmod>2021-10-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wfpas.com/categories/%E5%9B%BE%E5%BA%8A/</loc>
     <lastmod>2021-10-17</lastmod>
     <changefreq>daily</changefreq>
@@ -294,13 +301,6 @@
   
   <url>
     <loc>https://wfpas.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
-    <lastmod>2021-10-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wfpas.com/categories/%E6%99%9A%E9%A3%8EMemoryTools/</loc>
     <lastmod>2021-10-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
